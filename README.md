@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Malcolm 👋
 
-<!--
-**WambuaMalcolm/WambuaMalcolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science student at CUEA
+- 🤖 Passionate about AI/ML and Data Science
+- 💻 Skilled in Python, Java, Web Development
+- 📚 Currently building projects in Machine Learning & AI
+- 🌍 Based in Nairobi, Kenya
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: Python, Java, C
+- Libraries: NumPy, pandas, Matplotlib, TensorFlow, scikit-learn, langchain, llamaindex
+- Tools: Git, VS Code, MySQL, GraphSQL, NoSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🏦 Bank System (Python)
+- 📚 Library System (Python)
+- 📊 Student Performance Management (Java)
+- 🍽 Restaurant Website (HTML/CSS/JS)
+
+📫 Reach me at: [wambuamalcolm@gmail.com] | [LinkedIn link]

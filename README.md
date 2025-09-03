@@ -17,4 +17,5 @@
 - 📊 Student Performance Management (Java)
 - 🍽 Restaurant Website (HTML/CSS/JS)
 
-📫 Reach me at: [wambuamalcolm@gmail.com] | [LinkedIn link]
+📫 Reach me at: [Email me](mailto:wambuamalcolm@example.com)
+ | [LinkedIn](https://www.linkedin.com/in/malcom-wambua-4b9b5a303/)
